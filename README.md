@@ -3,6 +3,12 @@
 [4Clojure][1] is a resource to help fledgling clojurians learn the language
 through interactive problems.
 
+Run the project's tests:
+
+```
+$ lein test
+```
+
 
 ## Who made this?
 
